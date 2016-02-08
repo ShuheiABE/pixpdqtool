@@ -1,0 +1,5 @@
+The National Institute of Standards and Technology (NIST) Patient Identity Cross Reference (PIX) and Patient Discovery Query (PDQ) Test Tool supports testing of the Integrating the Healthcare Enterprise (IHE) PIX and PDQ Pre-Connectathon test cases for both Health Level 7 (HL7) Version 2 (v2) and Version 3 (v3).
+
+This tool specifically addresses Pre-Connectathon testing for the IHE PIX/PDQ HL7 v2 and v3 integration profiles. This tool can be used to satisfy Pre-Connectathon testing requirements to participate in the 2011 Connectathon. The IHE PIX/PDQ project manager will validate that a system has passed the required tests by examining test results saved within this tool.
+
+This tool is designed to test the requirements given in the IHE ITI Technical Framework [Revision 7](https://code.google.com/p/pixpdqtool/source/detail?r=7).0 dated August 10, 2010 (http://www.ihe.net/Technical_Framework/index.cfm#IT). It specifically addresses the following transactions: V2: ITI-8, ITI-9, ITI-21 and V3: ITI-44, ITI-45, ITI-47.
